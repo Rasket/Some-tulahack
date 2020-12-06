@@ -40,7 +40,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
+<<<<<<< HEAD
       "version": "1.1.19",
+=======
+      "version": "1.1.18",
+>>>>>>> 08a15b2a121b8a645607b4b9e3d3de1df7da220c
       "depth": 0,
       "source": "registry",
       "dependencies": {
